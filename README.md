@@ -1,8 +1,12 @@
 # 合肥工业大学课程现代设计报告模板
 
-A modern report template for HFUT (unofficial)
-
 这是合肥工业大学的现代课程设计报告模板（非官方）
+
+## 前4页示例
+<p align="center">
+  <img width=48% alt="image" src="https://github.com/user-attachments/assets/a290b98b-8e4a-4e47-b202-a771f7470a4f" /><img width=48% alt="image" src="https://github.com/user-attachments/assets/be5c6933-717d-4dda-99b5-824f4ea20a5b" />
+  <br /><img width=48% alt="image" src="https://github.com/user-attachments/assets/894e582c-118c-48e1-bad9-7eec4162bf58" /><img width=48% alt="image" src="https://github.com/user-attachments/assets/21d6ffc9-30d8-4607-b348-5217cf6525b6" />
+</p>
 
 ## 使用方法
 
@@ -10,11 +14,13 @@ A modern report template for HFUT (unofficial)
 
 ### 在线编辑
 
-[Typst Web App](https://typst.app/) 提供在线编辑和编译功能，适合不想在本地安装软件的用户
+> 由于官网中文字体不全，导致体验不佳！
 
-只需在 Web App 的 [Templates](https://typst.app/universe/search/?kind=templates) 中搜索「modern-hfut-report」，点击「Create project in app」即可在线创建模板
+[Typst Web App](https://typst.app/) 提供在线编辑和编译功能
 
-### 本地编辑
+在 Web App 的 [Templates](https://typst.app/universe/search/?kind=templates) 中搜索「modern-hfut-report」，点击「Create project in app」即可在线创建模板
+
+### 本地编辑（✔️）
 
 推荐使用 [VSCode](https://code.visualstudio.com/download) + [Tinymist](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) 插件进行本地编辑
 
