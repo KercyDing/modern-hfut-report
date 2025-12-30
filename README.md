@@ -8,6 +8,10 @@
   <br /><img width=48% alt="image" src="https://github.com/user-attachments/assets/894e582c-118c-48e1-bad9-7eec4162bf58" /><img width=48% alt="image" src="https://github.com/user-attachments/assets/21d6ffc9-30d8-4607-b348-5217cf6525b6" />
 </p>
 
+## Typst 中文教程
+
+[![下载最新版本](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "下载最新版本")](https://nightly.link/typst-doc-cn/tutorial/workflows/build/main/ebook.zip) **(latest 版本)**
+
 ## 使用方法
 
 开始使用模板时，请先完整阅读 `template/guide.typ`及其预览，了解如何从模板开始编写自己的报告
